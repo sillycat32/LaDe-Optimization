@@ -1,0 +1,2372 @@
+[
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0001",
+    "home_region_id": "104",
+    "path": [
+      [
+        106.26059,
+        29.99827
+      ],
+      [
+        106.26059,
+        29.99827
+      ],
+      [
+        106.05908,
+        29.84232
+      ],
+      [
+        106.26059,
+        29.99827
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "104",
+        "longitude": 106.26059,
+        "latitude": 29.99827,
+        "planned_delivery": 0.18983852863311768
+      },
+      {
+        "region_id": "106",
+        "longitude": 106.05908,
+        "latitude": 29.84232,
+        "planned_delivery": 0.06671734154224396
+      }
+    ],
+    "planned_load": 0.25655587017536163,
+    "vehicle_capacity": 20,
+    "distance_km": 52.07157587742438,
+    "estimated_travel_minutes": 156.21472763227314,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0002",
+    "home_region_id": "105",
+    "path": [
+      [
+        106.61226,
+        29.72199
+      ],
+      [
+        106.61226,
+        29.72199
+      ],
+      [
+        107.788055,
+        30.665125000000003
+      ],
+      [
+        108.37504,
+        30.822025
+      ],
+      [
+        108.422585,
+        30.762525
+      ],
+      [
+        108.7116,
+        30.9356
+      ],
+      [
+        108.40406,
+        31.1719
+      ],
+      [
+        106.61226,
+        29.72199
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "105",
+        "longitude": 106.61226,
+        "latitude": 29.72199,
+        "planned_delivery": 0.12801186740398407
+      },
+      {
+        "region_id": "135",
+        "longitude": 107.788055,
+        "latitude": 30.665125000000003,
+        "planned_delivery": 0.05460258945822716
+      },
+      {
+        "region_id": "138",
+        "longitude": 108.37504,
+        "latitude": 30.822025,
+        "planned_delivery": 0.07203466445207596
+      },
+      {
+        "region_id": "163",
+        "longitude": 108.422585,
+        "latitude": 30.762525,
+        "planned_delivery": 0.07414758950471878
+      },
+      {
+        "region_id": "10",
+        "longitude": 108.7116,
+        "latitude": 30.9356,
+        "planned_delivery": 0.07180207967758179
+      },
+      {
+        "region_id": "152",
+        "longitude": 108.40406,
+        "latitude": 31.1719,
+        "planned_delivery": 0.06240522861480713
+      }
+    ],
+    "planned_load": 0.4630040191113949,
+    "vehicle_capacity": 20,
+    "distance_km": 529.4986457474978,
+    "estimated_travel_minutes": 1588.4959372424935,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0003",
+    "home_region_id": "110",
+    "path": [
+      [
+        106.48546,
+        29.58624
+      ],
+      [
+        106.48546,
+        29.58624
+      ],
+      [
+        106.44848,
+        29.59521
+      ],
+      [
+        106.30006,
+        29.59318
+      ],
+      [
+        106.226135,
+        29.57573
+      ],
+      [
+        106.48546,
+        29.58624
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "110",
+        "longitude": 106.48546,
+        "latitude": 29.58624,
+        "planned_delivery": 0.17363326251506805
+      },
+      {
+        "region_id": "109",
+        "longitude": 106.44848,
+        "latitude": 29.59521,
+        "planned_delivery": 0.0799599140882492
+      },
+      {
+        "region_id": "116",
+        "longitude": 106.30006,
+        "latitude": 29.59318,
+        "planned_delivery": 0.056854065507650375
+      },
+      {
+        "region_id": "131",
+        "longitude": 106.226135,
+        "latitude": 29.57573,
+        "planned_delivery": 0.07139965146780014
+      }
+    ],
+    "planned_load": 0.3818468935787678,
+    "vehicle_capacity": 20,
+    "distance_km": 50.57606402009827,
+    "estimated_travel_minutes": 151.72819206029482,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0004",
+    "home_region_id": "123",
+    "path": [
+      [
+        106.32663,
+        29.61269
+      ],
+      [
+        106.32663,
+        29.61269
+      ],
+      [
+        106.30250000000001,
+        29.584654999999998
+      ],
+      [
+        105.931245,
+        29.35304
+      ],
+      [
+        105.59748,
+        29.41163
+      ],
+      [
+        105.719385,
+        29.697735
+      ],
+      [
+        106.32663,
+        29.61269
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "123",
+        "longitude": 106.32663,
+        "latitude": 29.61269,
+        "planned_delivery": 0.2660728693008423
+      },
+      {
+        "region_id": "157",
+        "longitude": 106.30250000000001,
+        "latitude": 29.584654999999998,
+        "planned_delivery": 0.08028854429721832
+      },
+      {
+        "region_id": "112",
+        "longitude": 105.931245,
+        "latitude": 29.35304,
+        "planned_delivery": 0.06137663498520851
+      },
+      {
+        "region_id": "125",
+        "longitude": 105.59748,
+        "latitude": 29.41163,
+        "planned_delivery": 0.07203466445207596
+      },
+      {
+        "region_id": "145",
+        "longitude": 105.719385,
+        "latitude": 29.697735,
+        "planned_delivery": 0.07271898537874222
+      }
+    ],
+    "planned_load": 0.5524916984140873,
+    "vehicle_capacity": 20,
+    "distance_km": 174.4619916506704,
+    "estimated_travel_minutes": 523.3859749520112,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0005",
+    "home_region_id": "130",
+    "path": [
+      [
+        106.545515,
+        29.586965
+      ],
+      [
+        106.545515,
+        29.586965
+      ],
+      [
+        106.52709,
+        29.56908
+      ],
+      [
+        106.545515,
+        29.586965
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "130",
+        "longitude": 106.545515,
+        "latitude": 29.586965,
+        "planned_delivery": 0.16420337557792664
+      },
+      {
+        "region_id": "133",
+        "longitude": 106.52709,
+        "latitude": 29.56908,
+        "planned_delivery": 0.054859548807144165
+      }
+    ],
+    "planned_load": 0.2190629243850708,
+    "vehicle_capacity": 20,
+    "distance_km": 5.34032672573888,
+    "estimated_travel_minutes": 16.02098017721664,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0006",
+    "home_region_id": "132",
+    "path": [
+      [
+        106.53829,
+        29.45741
+      ],
+      [
+        106.53829,
+        29.45741
+      ],
+      [
+        106.53829,
+        29.45741
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "132",
+        "longitude": 106.53829,
+        "latitude": 29.45741,
+        "planned_delivery": 0.1280462145805359
+      }
+    ],
+    "planned_load": 0.1280462145805359,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0007",
+    "home_region_id": "139",
+    "path": [
+      [
+        106.65411,
+        29.50852
+      ],
+      [
+        106.65411,
+        29.50852
+      ],
+      [
+        106.65411,
+        29.50852
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "139",
+        "longitude": 106.65411,
+        "latitude": 29.50852,
+        "planned_delivery": 0.18867413699626923
+      }
+    ],
+    "planned_load": 0.18867413699626923,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0008",
+    "home_region_id": "141",
+    "path": [
+      [
+        106.59966,
+        29.66895
+      ],
+      [
+        106.59966,
+        29.66895
+      ],
+      [
+        107.06886,
+        29.85563
+      ],
+      [
+        107.38469,
+        29.706485
+      ],
+      [
+        106.59966,
+        29.66895
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "141",
+        "longitude": 106.59966,
+        "latitude": 29.66895,
+        "planned_delivery": 0.19693626463413239
+      },
+      {
+        "region_id": "48",
+        "longitude": 107.06886,
+        "latitude": 29.85563,
+        "planned_delivery": 0.0669376403093338
+      },
+      {
+        "region_id": "150",
+        "longitude": 107.38469,
+        "latitude": 29.706485,
+        "planned_delivery": 0.06375760585069656
+      }
+    ],
+    "planned_load": 0.32763151079416275,
+    "vehicle_capacity": 20,
+    "distance_km": 160.4692086938671,
+    "estimated_travel_minutes": 481.4076260816013,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0009",
+    "home_region_id": "142",
+    "path": [
+      [
+        106.49095,
+        29.73588
+      ],
+      [
+        106.49095,
+        29.73588
+      ],
+      [
+        106.41132,
+        29.81508
+      ],
+      [
+        106.49095,
+        29.73588
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "142",
+        "longitude": 106.49095,
+        "latitude": 29.73588,
+        "planned_delivery": 0.20486722886562347
+      },
+      {
+        "region_id": "15",
+        "longitude": 106.41132,
+        "latitude": 29.81508,
+        "planned_delivery": 0.08522246032953262
+      }
+    ],
+    "planned_load": 0.2900896891951561,
+    "vehicle_capacity": 20,
+    "distance_km": 23.37722673422815,
+    "estimated_travel_minutes": 70.13168020268444,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0010",
+    "home_region_id": "147",
+    "path": [
+      [
+        106.59648,
+        29.58086
+      ],
+      [
+        106.59648,
+        29.58086
+      ],
+      [
+        106.64563,
+        29.62404
+      ],
+      [
+        106.60809,
+        29.64794
+      ],
+      [
+        106.59648,
+        29.58086
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "147",
+        "longitude": 106.59648,
+        "latitude": 29.58086,
+        "planned_delivery": 0.19497913122177124
+      },
+      {
+        "region_id": "11",
+        "longitude": 106.64563,
+        "latitude": 29.62404,
+        "planned_delivery": 0.057080697268247604
+      },
+      {
+        "region_id": "67",
+        "longitude": 106.60809,
+        "latitude": 29.64794,
+        "planned_delivery": 0.056854065507650375
+      }
+    ],
+    "planned_load": 0.3089138939976692,
+    "vehicle_capacity": 20,
+    "distance_km": 18.79560347449014,
+    "estimated_travel_minutes": 56.386810423470415,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0011",
+    "home_region_id": "149",
+    "path": [
+      [
+        106.56483,
+        29.53129
+      ],
+      [
+        106.56483,
+        29.53129
+      ],
+      [
+        106.56544,
+        29.505634999999998
+      ],
+      [
+        106.60432,
+        29.53288
+      ],
+      [
+        106.56672,
+        29.55701
+      ],
+      [
+        106.56483,
+        29.53129
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "149",
+        "longitude": 106.56483,
+        "latitude": 29.53129,
+        "planned_delivery": 0.14240366220474243
+      },
+      {
+        "region_id": "107",
+        "longitude": 106.56544,
+        "latitude": 29.505634999999998,
+        "planned_delivery": 0.046936821192502975
+      },
+      {
+        "region_id": "134",
+        "longitude": 106.60432,
+        "latitude": 29.53288,
+        "planned_delivery": 0.057315897196531296
+      },
+      {
+        "region_id": "127",
+        "longitude": 106.56672,
+        "latitude": 29.55701,
+        "planned_delivery": 0.08533883094787598
+      }
+    ],
+    "planned_load": 0.3319952115416527,
+    "vehicle_capacity": 20,
+    "distance_km": 15.069170026164185,
+    "estimated_travel_minutes": 45.207510078492554,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0012",
+    "home_region_id": "155",
+    "path": [
+      [
+        106.56345,
+        29.58838
+      ],
+      [
+        106.56345,
+        29.58838
+      ],
+      [
+        106.56345,
+        29.58838
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "155",
+        "longitude": 106.56345,
+        "latitude": 29.58838,
+        "planned_delivery": 0.3312080502510071
+      }
+    ],
+    "planned_load": 0.3312080502510071,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0013",
+    "home_region_id": "158",
+    "path": [
+      [
+        106.52787,
+        29.63831
+      ],
+      [
+        106.52787,
+        29.63831
+      ],
+      [
+        106.56001,
+        29.65166
+      ],
+      [
+        106.52787,
+        29.63831
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "158",
+        "longitude": 106.52787,
+        "latitude": 29.63831,
+        "planned_delivery": 0.1924184113740921
+      },
+      {
+        "region_id": "153",
+        "longitude": 106.56001,
+        "latitude": 29.65166,
+        "planned_delivery": 0.09192178398370743
+      }
+    ],
+    "planned_load": 0.28434019535779953,
+    "vehicle_capacity": 20,
+    "distance_km": 6.885050808331923,
+    "estimated_travel_minutes": 20.65515242499577,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0014",
+    "home_region_id": "160",
+    "path": [
+      [
+        106.52328,
+        29.59443
+      ],
+      [
+        106.52328,
+        29.59443
+      ],
+      [
+        106.48931,
+        29.636785000000003
+      ],
+      [
+        106.52328,
+        29.59443
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "160",
+        "longitude": 106.52328,
+        "latitude": 29.59443,
+        "planned_delivery": 0.48345455527305603
+      },
+      {
+        "region_id": "24",
+        "longitude": 106.48931,
+        "latitude": 29.636785000000003,
+        "planned_delivery": 0.0591575913131237
+      }
+    ],
+    "planned_load": 0.5426121465861797,
+    "vehicle_capacity": 20,
+    "distance_km": 11.482947612912348,
+    "estimated_travel_minutes": 34.44884283873704,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0015",
+    "home_region_id": "166",
+    "path": [
+      [
+        106.51878,
+        29.51223
+      ],
+      [
+        106.51878,
+        29.51223
+      ],
+      [
+        106.51134,
+        29.53901
+      ],
+      [
+        106.4804,
+        29.49241
+      ],
+      [
+        106.44636,
+        29.44194
+      ],
+      [
+        106.51878,
+        29.51223
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "166",
+        "longitude": 106.51878,
+        "latitude": 29.51223,
+        "planned_delivery": 0.1991237998008728
+      },
+      {
+        "region_id": "40",
+        "longitude": 106.51134,
+        "latitude": 29.53901,
+        "planned_delivery": 0.08498726040124893
+      },
+      {
+        "region_id": "103",
+        "longitude": 106.4804,
+        "latitude": 29.49241,
+        "planned_delivery": 0.06579257547855377
+      },
+      {
+        "region_id": "159",
+        "longitude": 106.44636,
+        "latitude": 29.44194,
+        "planned_delivery": 0.062398023903369904
+      }
+    ],
+    "planned_load": 0.4123016595840454,
+    "vehicle_capacity": 20,
+    "distance_km": 26.05523753672577,
+    "estimated_travel_minutes": 78.16571261017731,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0016",
+    "home_region_id": "70",
+    "path": [
+      [
+        106.53453,
+        29.38285
+      ],
+      [
+        106.53453,
+        29.38285
+      ],
+      [
+        106.263615,
+        29.28041
+      ],
+      [
+        106.676435,
+        29.02724
+      ],
+      [
+        106.53453,
+        29.38285
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "70",
+        "longitude": 106.53453,
+        "latitude": 29.38285,
+        "planned_delivery": 0.1282813996076584
+      },
+      {
+        "region_id": "154",
+        "longitude": 106.263615,
+        "latitude": 29.28041,
+        "planned_delivery": 0.07655806839466095
+      },
+      {
+        "region_id": "144",
+        "longitude": 106.676435,
+        "latitude": 29.02724,
+        "planned_delivery": 0.0718066617846489
+      }
+    ],
+    "planned_load": 0.27664612978696823,
+    "vehicle_capacity": 20,
+    "distance_km": 119.48373217834629,
+    "estimated_travel_minutes": 358.4511965350389,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0017",
+    "home_region_id": "74",
+    "path": [
+      [
+        106.47741,
+        29.52492
+      ],
+      [
+        106.47741,
+        29.52492
+      ],
+      [
+        106.45263,
+        29.54619
+      ],
+      [
+        106.36686,
+        29.516354999999997
+      ],
+      [
+        106.47741,
+        29.52492
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "74",
+        "longitude": 106.47741,
+        "latitude": 29.52492,
+        "planned_delivery": 0.3520295321941376
+      },
+      {
+        "region_id": "148",
+        "longitude": 106.45263,
+        "latitude": 29.54619,
+        "planned_delivery": 0.07458027452230453
+      },
+      {
+        "region_id": "136",
+        "longitude": 106.36686,
+        "latitude": 29.516354999999997,
+        "planned_delivery": 0.06489922851324081
+      }
+    ],
+    "planned_load": 0.4915090352296829,
+    "vehicle_capacity": 20,
+    "distance_km": 23.04350074489203,
+    "estimated_travel_minutes": 69.13050223467609,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0018",
+    "home_region_id": "0",
+    "path": [
+      [
+        120.18148,
+        30.26603
+      ],
+      [
+        120.18148,
+        30.26603
+      ],
+      [
+        120.19469,
+        30.25333
+      ],
+      [
+        120.1744,
+        30.24956
+      ],
+      [
+        120.19816,
+        30.16768
+      ],
+      [
+        120.18026,
+        30.09703
+      ],
+      [
+        120.09169,
+        30.13384
+      ],
+      [
+        120.0731,
+        30.16238
+      ],
+      [
+        120.18148,
+        30.26603
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "0",
+        "longitude": 120.18148,
+        "latitude": 30.26603,
+        "planned_delivery": 0.11842399835586548
+      },
+      {
+        "region_id": "124",
+        "longitude": 120.19469,
+        "latitude": 30.25333,
+        "planned_delivery": 0.04267493262887001
+      },
+      {
+        "region_id": "114",
+        "longitude": 120.1744,
+        "latitude": 30.24956,
+        "planned_delivery": 0.054167553782463074
+      },
+      {
+        "region_id": "108",
+        "longitude": 120.19816,
+        "latitude": 30.16768,
+        "planned_delivery": 0.04231645539402962
+      },
+      {
+        "region_id": "49",
+        "longitude": 120.18026,
+        "latitude": 30.09703,
+        "planned_delivery": 0.04153120890259743
+      },
+      {
+        "region_id": "39",
+        "longitude": 120.09169,
+        "latitude": 30.13384,
+        "planned_delivery": 0.03721056506037712
+      },
+      {
+        "region_id": "117",
+        "longitude": 120.0731,
+        "latitude": 30.16238,
+        "planned_delivery": 0.03863265737891197
+      }
+    ],
+    "planned_load": 0.3749573715031147,
+    "vehicle_capacity": 20,
+    "distance_km": 49.94798249856185,
+    "estimated_travel_minutes": 149.84394749568554,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0019",
+    "home_region_id": "113",
+    "path": [
+      [
+        120.06128,
+        30.28834
+      ],
+      [
+        120.06128,
+        30.28834
+      ],
+      [
+        120.03689,
+        30.28875
+      ],
+      [
+        120.0941,
+        30.28616
+      ],
+      [
+        120.11671,
+        30.27952
+      ],
+      [
+        120.1139,
+        30.31152
+      ],
+      [
+        120.06614,
+        30.34193
+      ],
+      [
+        120.06128,
+        30.28834
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "113",
+        "longitude": 120.06128,
+        "latitude": 30.28834,
+        "planned_delivery": 0.14890220761299133
+      },
+      {
+        "region_id": "67",
+        "longitude": 120.03689,
+        "latitude": 30.28875,
+        "planned_delivery": 0.07058607041835785
+      },
+      {
+        "region_id": "72",
+        "longitude": 120.0941,
+        "latitude": 30.28616,
+        "planned_delivery": 0.023872163146734238
+      },
+      {
+        "region_id": "121",
+        "longitude": 120.11671,
+        "latitude": 30.27952,
+        "planned_delivery": 0.013369852676987648
+      },
+      {
+        "region_id": "75",
+        "longitude": 120.1139,
+        "latitude": 30.31152,
+        "planned_delivery": 0.011347988620400429
+      },
+      {
+        "region_id": "4",
+        "longitude": 120.06614,
+        "latitude": 30.34193,
+        "planned_delivery": 0.011347988620400429
+      }
+    ],
+    "planned_load": 0.2794262710958719,
+    "vehicle_capacity": 20,
+    "distance_km": 25.378022528277167,
+    "estimated_travel_minutes": 76.1340675848315,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0020",
+    "home_region_id": "120",
+    "path": [
+      [
+        120.27945,
+        30.30427
+      ],
+      [
+        120.27945,
+        30.30427
+      ],
+      [
+        120.25732500000001,
+        30.32117
+      ],
+      [
+        120.28323,
+        30.24121
+      ],
+      [
+        120.20085,
+        30.18828
+      ],
+      [
+        120.27945,
+        30.30427
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "120",
+        "longitude": 120.27945,
+        "latitude": 30.30427,
+        "planned_delivery": 0.14778578281402588
+      },
+      {
+        "region_id": "122",
+        "longitude": 120.25732500000001,
+        "latitude": 30.32117,
+        "planned_delivery": 0.07058607041835785
+      },
+      {
+        "region_id": "43",
+        "longitude": 120.28323,
+        "latitude": 30.24121,
+        "planned_delivery": 0.07058607041835785
+      },
+      {
+        "region_id": "34",
+        "longitude": 120.20085,
+        "latitude": 30.18828,
+        "planned_delivery": 0.030517231673002243
+      }
+    ],
+    "planned_load": 0.3194751553237438,
+    "vehicle_capacity": 20,
+    "distance_km": 36.87739682800429,
+    "estimated_travel_minutes": 110.63219048401287,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0021",
+    "home_region_id": "19",
+    "path": [
+      [
+        120.14184,
+        30.3276
+      ],
+      [
+        120.14184,
+        30.3276
+      ],
+      [
+        120.15187,
+        30.31085
+      ],
+      [
+        120.16918,
+        30.38722
+      ],
+      [
+        120.09443,
+        30.4145
+      ],
+      [
+        120.14184,
+        30.3276
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "19",
+        "longitude": 120.14184,
+        "latitude": 30.3276,
+        "planned_delivery": 0.7930518984794617
+      },
+      {
+        "region_id": "126",
+        "longitude": 120.15187,
+        "latitude": 30.31085,
+        "planned_delivery": 0.031556449830532074
+      },
+      {
+        "region_id": "96",
+        "longitude": 120.16918,
+        "latitude": 30.38722,
+        "planned_delivery": 0.0309322327375412
+      },
+      {
+        "region_id": "62",
+        "longitude": 120.09443,
+        "latitude": 30.4145,
+        "planned_delivery": 0.020551681518554688
+      }
+    ],
+    "planned_load": 0.8760922625660896,
+    "vehicle_capacity": 20,
+    "distance_km": 29.213659266604434,
+    "estimated_travel_minutes": 87.6409777998133,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0022",
+    "home_region_id": "3",
+    "path": [
+      [
+        120.10067,
+        30.27614
+      ],
+      [
+        120.10067,
+        30.27614
+      ],
+      [
+        120.11347,
+        30.296135
+      ],
+      [
+        120.13107,
+        30.26557
+      ],
+      [
+        120.15333,
+        30.28374
+      ],
+      [
+        120.170545,
+        30.28501
+      ],
+      [
+        120.20219,
+        30.27023
+      ],
+      [
+        120.10067,
+        30.27614
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "3",
+        "longitude": 120.10067,
+        "latitude": 30.27614,
+        "planned_delivery": 0.14152130484580994
+      },
+      {
+        "region_id": "27",
+        "longitude": 120.11347,
+        "latitude": 30.296135,
+        "planned_delivery": 0.03687112033367157
+      },
+      {
+        "region_id": "82",
+        "longitude": 120.13107,
+        "latitude": 30.26557,
+        "planned_delivery": 0.06936817616224289
+      },
+      {
+        "region_id": "59",
+        "longitude": 120.15333,
+        "latitude": 30.28374,
+        "planned_delivery": 0.027606356889009476
+      },
+      {
+        "region_id": "35",
+        "longitude": 120.170545,
+        "latitude": 30.28501,
+        "planned_delivery": 0.010915519669651985
+      },
+      {
+        "region_id": "30",
+        "longitude": 120.20219,
+        "latitude": 30.27023,
+        "planned_delivery": 0.022337645292282104
+      }
+    ],
+    "planned_load": 0.30862012319266796,
+    "vehicle_capacity": 20,
+    "distance_km": 24.162463116968734,
+    "estimated_travel_minutes": 72.4873893509062,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0023",
+    "home_region_id": "36",
+    "path": [
+      [
+        120.258115,
+        30.05606
+      ],
+      [
+        120.258115,
+        30.05606
+      ],
+      [
+        120.258115,
+        30.05606
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "36",
+        "longitude": 120.258115,
+        "latitude": 30.05606,
+        "planned_delivery": 0.16566680371761322
+      }
+    ],
+    "planned_load": 0.16566680371761322,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0024",
+    "home_region_id": "55",
+    "path": [
+      [
+        119.31014,
+        29.49015
+      ],
+      [
+        119.31014,
+        29.49015
+      ],
+      [
+        119.05413,
+        29.602224999999997
+      ],
+      [
+        119.31014,
+        29.49015
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "55",
+        "longitude": 119.31014,
+        "latitude": 29.49015,
+        "planned_delivery": 4.778573513031006
+      },
+      {
+        "region_id": "47",
+        "longitude": 119.05413,
+        "latitude": 29.602224999999997,
+        "planned_delivery": 0.03421381488442421
+      }
+    ],
+    "planned_load": 4.81278732791543,
+    "vehicle_capacity": 20,
+    "distance_km": 55.447933109017406,
+    "estimated_travel_minutes": 166.3437993270522,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0025",
+    "home_region_id": "56",
+    "path": [
+      [
+        120.30302,
+        30.39373
+      ],
+      [
+        120.30302,
+        30.39373
+      ],
+      [
+        120.28869,
+        30.34761
+      ],
+      [
+        120.37382,
+        30.27473
+      ],
+      [
+        120.48191,
+        30.26393
+      ],
+      [
+        120.48686,
+        30.31254
+      ],
+      [
+        120.61705,
+        30.27727
+      ],
+      [
+        120.44887,
+        30.18635
+      ],
+      [
+        120.30302,
+        30.39373
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "56",
+        "longitude": 120.30302,
+        "latitude": 30.39373,
+        "planned_delivery": 1.4474135637283325
+      },
+      {
+        "region_id": "28",
+        "longitude": 120.28869,
+        "latitude": 30.34761,
+        "planned_delivery": 0.06542766094207764
+      },
+      {
+        "region_id": "58",
+        "longitude": 120.37382,
+        "latitude": 30.27473,
+        "planned_delivery": 0.029684484004974365
+      },
+      {
+        "region_id": "12",
+        "longitude": 120.48191,
+        "latitude": 30.26393,
+        "planned_delivery": 0.03306165710091591
+      },
+      {
+        "region_id": "98",
+        "longitude": 120.48686,
+        "latitude": 30.31254,
+        "planned_delivery": 0.056068990379571915
+      },
+      {
+        "region_id": "81",
+        "longitude": 120.61705,
+        "latitude": 30.27727,
+        "planned_delivery": 0.01926124468445778
+      },
+      {
+        "region_id": "91",
+        "longitude": 120.44887,
+        "latitude": 30.18635,
+        "planned_delivery": 0.044565264135599136
+      }
+    ],
+    "planned_load": 1.6954828649759293,
+    "vehicle_capacity": 20,
+    "distance_km": 91.8328358874413,
+    "estimated_travel_minutes": 275.4985076623239,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0026",
+    "home_region_id": "79",
+    "path": [
+      [
+        119.94324,
+        30.11474
+      ],
+      [
+        119.94324,
+        30.11474
+      ],
+      [
+        119.924575,
+        30.04466
+      ],
+      [
+        119.70361,
+        29.8072
+      ],
+      [
+        119.58274,
+        29.84311
+      ],
+      [
+        119.94324,
+        30.11474
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "79",
+        "longitude": 119.94324,
+        "latitude": 30.11474,
+        "planned_delivery": 0.27404704689979553
+      },
+      {
+        "region_id": "97",
+        "longitude": 119.924575,
+        "latitude": 30.04466,
+        "planned_delivery": 0.057046543806791306
+      },
+      {
+        "region_id": "119",
+        "longitude": 119.70361,
+        "latitude": 29.8072,
+        "planned_delivery": 0.05466939136385918
+      },
+      {
+        "region_id": "14",
+        "longitude": 119.58274,
+        "latitude": 29.84311,
+        "planned_delivery": 0.020697500556707382
+      }
+    ],
+    "planned_load": 0.4064604826271534,
+    "vehicle_capacity": 20,
+    "distance_km": 100.26366376602653,
+    "estimated_travel_minutes": 300.7909912980796,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0027",
+    "home_region_id": "88",
+    "path": [
+      [
+        120.01036,
+        30.236065
+      ],
+      [
+        120.01036,
+        30.236065
+      ],
+      [
+        120.02608,
+        30.244194999999998
+      ],
+      [
+        119.9589,
+        30.025125000000003
+      ],
+      [
+        120.01036,
+        30.236065
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "88",
+        "longitude": 120.01036,
+        "latitude": 30.236065,
+        "planned_delivery": 1.7831240892410278
+      },
+      {
+        "region_id": "83",
+        "longitude": 120.02608,
+        "latitude": 30.244194999999998,
+        "planned_delivery": 0.05037758871912956
+      },
+      {
+        "region_id": "89",
+        "longitude": 119.9589,
+        "latitude": 30.025125000000003,
+        "planned_delivery": 0.04449612274765968
+      }
+    ],
+    "planned_load": 1.877997800707817,
+    "vehicle_capacity": 20,
+    "distance_km": 50.93358945297063,
+    "estimated_travel_minutes": 152.80076835891188,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0028",
+    "home_region_id": "94",
+    "path": [
+      [
+        119.96317,
+        30.23367
+      ],
+      [
+        119.96317,
+        30.23367
+      ],
+      [
+        119.79819,
+        30.2534
+      ],
+      [
+        119.96317,
+        30.23367
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "94",
+        "longitude": 119.96317,
+        "latitude": 30.23367,
+        "planned_delivery": 0.179013192653656
+      },
+      {
+        "region_id": "100",
+        "longitude": 119.79819,
+        "latitude": 30.2534,
+        "planned_delivery": 0.06635475903749466
+      }
+    ],
+    "planned_load": 0.24536795169115067,
+    "vehicle_capacity": 20,
+    "distance_km": 31.998406991821202,
+    "estimated_travel_minutes": 95.99522097546361,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Hangzhou",
+    "route_id": "Hangzhou-0029",
+    "home_region_id": "99",
+    "path": [
+      [
+        120.18365,
+        30.33205
+      ],
+      [
+        120.18365,
+        30.33205
+      ],
+      [
+        120.17207,
+        30.31226
+      ],
+      [
+        120.24312499999999,
+        30.29968
+      ],
+      [
+        120.18365,
+        30.33205
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "99",
+        "longitude": 120.18365,
+        "latitude": 30.33205,
+        "planned_delivery": 0.12819236516952515
+      },
+      {
+        "region_id": "23",
+        "longitude": 120.17207,
+        "latitude": 30.31226,
+        "planned_delivery": 0.04218510910868645
+      },
+      {
+        "region_id": "26",
+        "longitude": 120.24312499999999,
+        "latitude": 30.29968,
+        "planned_delivery": 0.038638778030872345
+      }
+    ],
+    "planned_load": 0.20901625230908394,
+    "vehicle_capacity": 20,
+    "distance_km": 16.177461366867963,
+    "estimated_travel_minutes": 48.532384100603885,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0030",
+    "home_region_id": "25",
+    "path": [
+      [
+        121.55366,
+        31.19923
+      ],
+      [
+        121.55366,
+        31.19923
+      ],
+      [
+        121.62596,
+        31.20539
+      ],
+      [
+        121.626135,
+        31.18113
+      ],
+      [
+        121.60533000000001,
+        31.24343
+      ],
+      [
+        121.55366,
+        31.19923
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "25",
+        "longitude": 121.55366,
+        "latitude": 31.19923,
+        "planned_delivery": 0.1029689684510231
+      },
+      {
+        "region_id": "69",
+        "longitude": 121.62596,
+        "latitude": 31.20539,
+        "planned_delivery": 0.0718337744474411
+      },
+      {
+        "region_id": "78",
+        "longitude": 121.626135,
+        "latitude": 31.18113,
+        "planned_delivery": 0.0718337744474411
+      },
+      {
+        "region_id": "5",
+        "longitude": 121.60533000000001,
+        "latitude": 31.24343,
+        "planned_delivery": 0.06266161799430847
+      }
+    ],
+    "planned_load": 0.3092981353402138,
+    "vehicle_capacity": 20,
+    "distance_km": 23.762151550498352,
+    "estimated_travel_minutes": 71.28645465149506,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0031",
+    "home_region_id": "38",
+    "path": [
+      [
+        121.87332,
+        30.94625
+      ],
+      [
+        121.87332,
+        30.94625
+      ],
+      [
+        121.87332,
+        30.94625
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "38",
+        "longitude": 121.87332,
+        "latitude": 30.94625,
+        "planned_delivery": 0.11242294311523438
+      }
+    ],
+    "planned_load": 0.11242294311523438,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0032",
+    "home_region_id": "42",
+    "path": [
+      [
+        121.53029,
+        31.18935
+      ],
+      [
+        121.53029,
+        31.18935
+      ],
+      [
+        121.52478,
+        31.22396
+      ],
+      [
+        121.54539,
+        31.24072
+      ],
+      [
+        121.48627,
+        31.207205000000002
+      ],
+      [
+        121.46376,
+        31.2084
+      ],
+      [
+        121.46339,
+        31.2334
+      ],
+      [
+        121.41215,
+        31.22985
+      ],
+      [
+        121.53029,
+        31.18935
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "42",
+        "longitude": 121.53029,
+        "latitude": 31.18935,
+        "planned_delivery": 0.20658159255981445
+      },
+      {
+        "region_id": "84",
+        "longitude": 121.52478,
+        "latitude": 31.22396,
+        "planned_delivery": 0.0620584599673748
+      },
+      {
+        "region_id": "44",
+        "longitude": 121.54539,
+        "latitude": 31.24072,
+        "planned_delivery": 0.047201480716466904
+      },
+      {
+        "region_id": "18",
+        "longitude": 121.48627,
+        "latitude": 31.207205000000002,
+        "planned_delivery": 0.04607487842440605
+      },
+      {
+        "region_id": "50",
+        "longitude": 121.46376,
+        "latitude": 31.2084,
+        "planned_delivery": 0.04119746759533882
+      },
+      {
+        "region_id": "64",
+        "longitude": 121.46339,
+        "latitude": 31.2334,
+        "planned_delivery": 0.04407055675983429
+      },
+      {
+        "region_id": "7",
+        "longitude": 121.41215,
+        "latitude": 31.22985,
+        "planned_delivery": 0.0266518946737051
+      }
+    ],
+    "planned_load": 0.4738363306969404,
+    "vehicle_capacity": 20,
+    "distance_km": 35.25021109301196,
+    "estimated_travel_minutes": 105.7506332790359,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0033",
+    "home_region_id": "45",
+    "path": [
+      [
+        121.53174,
+        31.03899
+      ],
+      [
+        121.53174,
+        31.03899
+      ],
+      [
+        121.53264,
+        31.06409
+      ],
+      [
+        121.49572,
+        31.09334
+      ],
+      [
+        121.47641,
+        30.864455
+      ],
+      [
+        121.53174,
+        31.03899
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "45",
+        "longitude": 121.53174,
+        "latitude": 31.03899,
+        "planned_delivery": 0.5586443543434143
+      },
+      {
+        "region_id": "93",
+        "longitude": 121.53264,
+        "latitude": 31.06409,
+        "planned_delivery": 0.06691054999828339
+      },
+      {
+        "region_id": "21",
+        "longitude": 121.49572,
+        "latitude": 31.09334,
+        "planned_delivery": 0.050569795072078705
+      },
+      {
+        "region_id": "9",
+        "longitude": 121.47641,
+        "latitude": 30.864455,
+        "planned_delivery": 0.04264204949140549
+      }
+    ],
+    "planned_load": 0.7187667489051819,
+    "vehicle_capacity": 20,
+    "distance_km": 53.211253967118935,
+    "estimated_travel_minutes": 159.63376190135682,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0034",
+    "home_region_id": "46",
+    "path": [
+      [
+        121.57312,
+        31.2583
+      ],
+      [
+        121.57312,
+        31.2583
+      ],
+      [
+        121.59163,
+        31.3237
+      ],
+      [
+        121.52996,
+        31.32915
+      ],
+      [
+        121.48365,
+        31.33975
+      ],
+      [
+        121.46944,
+        31.36438
+      ],
+      [
+        121.44892,
+        31.28458
+      ],
+      [
+        121.57312,
+        31.2583
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "46",
+        "longitude": 121.57312,
+        "latitude": 31.2583,
+        "planned_delivery": 0.21959419548511505
+      },
+      {
+        "region_id": "17",
+        "longitude": 121.59163,
+        "latitude": 31.3237,
+        "planned_delivery": 0.06438466161489487
+      },
+      {
+        "region_id": "2",
+        "longitude": 121.52996,
+        "latitude": 31.32915,
+        "planned_delivery": 0.06652188301086426
+      },
+      {
+        "region_id": "80",
+        "longitude": 121.48365,
+        "latitude": 31.33975,
+        "planned_delivery": 0.04723476991057396
+      },
+      {
+        "region_id": "160",
+        "longitude": 121.46944,
+        "latitude": 31.36438,
+        "planned_delivery": 0.046552661806344986
+      },
+      {
+        "region_id": "32",
+        "longitude": 121.44892,
+        "latitude": 31.28458,
+        "planned_delivery": 0.04430575668811798
+      }
+    ],
+    "planned_load": 0.4885939285159111,
+    "vehicle_capacity": 20,
+    "distance_km": 42.222762803113916,
+    "estimated_travel_minutes": 126.66828840934176,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0035",
+    "home_region_id": "6",
+    "path": [
+      [
+        121.38046,
+        31.31597
+      ],
+      [
+        121.38046,
+        31.31597
+      ],
+      [
+        121.34736,
+        31.28233
+      ],
+      [
+        121.31133,
+        31.2114
+      ],
+      [
+        121.38046,
+        31.31597
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "6",
+        "longitude": 121.38046,
+        "latitude": 31.31597,
+        "planned_delivery": 0.11561831086874008
+      },
+      {
+        "region_id": "33",
+        "longitude": 121.34736,
+        "latitude": 31.28233,
+        "planned_delivery": 0.06929069757461548
+      },
+      {
+        "region_id": "41",
+        "longitude": 121.31133,
+        "latitude": 31.2114,
+        "planned_delivery": 0.008837739005684853
+      }
+    ],
+    "planned_load": 0.1937467474490404,
+    "vehicle_capacity": 20,
+    "distance_km": 26.84145857391531,
+    "estimated_travel_minutes": 80.52437572174594,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0036",
+    "home_region_id": "61",
+    "path": [
+      [
+        121.36324,
+        31.3538
+      ],
+      [
+        121.36324,
+        31.3538
+      ],
+      [
+        121.34265500000001,
+        31.38957
+      ],
+      [
+        121.48401,
+        31.4055
+      ],
+      [
+        121.36324,
+        31.3538
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "61",
+        "longitude": 121.36324,
+        "latitude": 31.3538,
+        "planned_delivery": 0.26485899090766907
+      },
+      {
+        "region_id": "16",
+        "longitude": 121.34265500000001,
+        "latitude": 31.38957,
+        "planned_delivery": 0.05464797839522362
+      },
+      {
+        "region_id": "20",
+        "longitude": 121.48401,
+        "latitude": 31.4055,
+        "planned_delivery": 0.04407055675983429
+      }
+    ],
+    "planned_load": 0.363577526062727,
+    "vehicle_capacity": 20,
+    "distance_km": 30.789928435200387,
+    "estimated_travel_minutes": 92.36978530560116,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0037",
+    "home_region_id": "71",
+    "path": [
+      [
+        121.6785,
+        31.26127
+      ],
+      [
+        121.6785,
+        31.26127
+      ],
+      [
+        121.669055,
+        31.21313
+      ],
+      [
+        121.6785,
+        31.26127
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "71",
+        "longitude": 121.6785,
+        "latitude": 31.26127,
+        "planned_delivery": 0.14842307567596436
+      },
+      {
+        "region_id": "77",
+        "longitude": 121.669055,
+        "latitude": 31.21313,
+        "planned_delivery": 0.03716394677758217
+      }
+    ],
+    "planned_load": 0.18558702245354652,
+    "vehicle_capacity": 20,
+    "distance_km": 10.855458352870398,
+    "estimated_travel_minutes": 32.56637505861119,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0038",
+    "home_region_id": "76",
+    "path": [
+      [
+        121.28201,
+        31.16845
+      ],
+      [
+        121.28201,
+        31.16845
+      ],
+      [
+        121.31079,
+        31.14578
+      ],
+      [
+        121.35954,
+        31.10341
+      ],
+      [
+        121.39918,
+        31.10863
+      ],
+      [
+        121.26903,
+        31.01903
+      ],
+      [
+        121.286805,
+        30.99349
+      ],
+      [
+        121.22976,
+        31.22662
+      ],
+      [
+        121.28201,
+        31.16845
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "76",
+        "longitude": 121.28201,
+        "latitude": 31.16845,
+        "planned_delivery": 0.49207019805908203
+      },
+      {
+        "region_id": "81",
+        "longitude": 121.31079,
+        "latitude": 31.14578,
+        "planned_delivery": 0.052271947264671326
+      },
+      {
+        "region_id": "85",
+        "longitude": 121.35954,
+        "latitude": 31.10341,
+        "planned_delivery": 0.049183402210474014
+      },
+      {
+        "region_id": "66",
+        "longitude": 121.39918,
+        "latitude": 31.10863,
+        "planned_delivery": 0.04287589713931084
+      },
+      {
+        "region_id": "92",
+        "longitude": 121.26903,
+        "latitude": 31.01903,
+        "planned_delivery": 0.008058249019086361
+      },
+      {
+        "region_id": "52",
+        "longitude": 121.286805,
+        "latitude": 30.99349,
+        "planned_delivery": 0.030294528231024742
+      },
+      {
+        "region_id": "13",
+        "longitude": 121.22976,
+        "latitude": 31.22662,
+        "planned_delivery": 0.06769344210624695
+      }
+    ],
+    "planned_load": 0.7424476640298963,
+    "vehicle_capacity": 20,
+    "distance_km": 68.00691026331747,
+    "estimated_travel_minutes": 204.02073078995238,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0039",
+    "home_region_id": "8",
+    "path": [
+      [
+        121.51032,
+        31.14245
+      ],
+      [
+        121.51032,
+        31.14245
+      ],
+      [
+        121.51198,
+        31.11998
+      ],
+      [
+        121.446935,
+        31.17417
+      ],
+      [
+        121.42652,
+        31.1662
+      ],
+      [
+        121.41412,
+        31.15621
+      ],
+      [
+        121.38361,
+        31.17536
+      ],
+      [
+        121.51032,
+        31.14245
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "8",
+        "longitude": 121.51032,
+        "latitude": 31.14245,
+        "planned_delivery": 0.11561831086874008
+      },
+      {
+        "region_id": "1",
+        "longitude": 121.51198,
+        "latitude": 31.11998,
+        "planned_delivery": 0.06661513447761536
+      },
+      {
+        "region_id": "90",
+        "longitude": 121.446935,
+        "latitude": 31.17417,
+        "planned_delivery": 0.05800432711839676
+      },
+      {
+        "region_id": "65",
+        "longitude": 121.42652,
+        "latitude": 31.1662,
+        "planned_delivery": 0.061588045209646225
+      },
+      {
+        "region_id": "22",
+        "longitude": 121.41412,
+        "latitude": 31.15621,
+        "planned_delivery": 0.04604816809296608
+      },
+      {
+        "region_id": "63",
+        "longitude": 121.38361,
+        "latitude": 31.17536,
+        "planned_delivery": 0.050569795072078705
+      }
+    ],
+    "planned_load": 0.3984437808394432,
+    "vehicle_capacity": 20,
+    "distance_km": 31.097795740712034,
+    "estimated_travel_minutes": 93.2933872221361,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Shanghai",
+    "route_id": "Shanghai-0040",
+    "home_region_id": "87",
+    "path": [
+      [
+        121.44428,
+        31.24524
+      ],
+      [
+        121.44428,
+        31.24524
+      ],
+      [
+        121.40838,
+        31.24864
+      ],
+      [
+        121.4095,
+        31.21543
+      ],
+      [
+        121.42209,
+        31.28278
+      ],
+      [
+        121.28057,
+        31.2167
+      ],
+      [
+        121.2064,
+        31.23176
+      ],
+      [
+        121.140655,
+        31.16223
+      ],
+      [
+        121.18762,
+        31.10535
+      ],
+      [
+        121.32599,
+        31.12842
+      ],
+      [
+        121.44428,
+        31.24524
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "87",
+        "longitude": 121.44428,
+        "latitude": 31.24524,
+        "planned_delivery": 0.1612187922000885
+      },
+      {
+        "region_id": "29",
+        "longitude": 121.40838,
+        "latitude": 31.24864,
+        "planned_delivery": 0.08064288645982742
+      },
+      {
+        "region_id": "37",
+        "longitude": 121.4095,
+        "latitude": 31.21543,
+        "planned_delivery": 0.06769344210624695
+      },
+      {
+        "region_id": "57",
+        "longitude": 121.42209,
+        "latitude": 31.28278,
+        "planned_delivery": 0.08949918299913406
+      },
+      {
+        "region_id": "73",
+        "longitude": 121.28057,
+        "latitude": 31.2167,
+        "planned_delivery": 0.04604816809296608
+      },
+      {
+        "region_id": "72",
+        "longitude": 121.2064,
+        "latitude": 31.23176,
+        "planned_delivery": 0.046552661806344986
+      },
+      {
+        "region_id": "51",
+        "longitude": 121.140655,
+        "latitude": 31.16223,
+        "planned_delivery": 0.04574563354253769
+      },
+      {
+        "region_id": "54",
+        "longitude": 121.18762,
+        "latitude": 31.10535,
+        "planned_delivery": 0.06109822168946266
+      },
+      {
+        "region_id": "68",
+        "longitude": 121.32599,
+        "latitude": 31.12842,
+        "planned_delivery": 0.06691054999828339
+      }
+    ],
+    "planned_load": 0.6654095388948917,
+    "vehicle_capacity": 20,
+    "distance_km": 85.58406287194524,
+    "estimated_travel_minutes": 256.75218861583573,
+    "distance_method": "Haversine straight-line simulation"
+  }
+]

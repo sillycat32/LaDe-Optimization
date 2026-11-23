@@ -1,0 +1,10 @@
+joblib>=1.4
+matplotlib>=3.8
+networkx>=3.3
+numpy>=1.26
+pandas>=2.2
+plotly>=6.0
+pyarrow>=17
+scikit-learn>=1.5
+streamlit>=1.49
+xgboost>=2.1

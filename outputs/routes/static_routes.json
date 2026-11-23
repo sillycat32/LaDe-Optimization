@@ -1,0 +1,1362 @@
+[
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0001",
+    "home_region_id": "10",
+    "path": [
+      [
+        108.7116,
+        30.9356
+      ],
+      [
+        108.7116,
+        30.9356
+      ],
+      [
+        108.7116,
+        30.9356
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "10",
+        "longitude": 108.7116,
+        "latitude": 30.9356,
+        "planned_delivery": 0.07180207967758179
+      }
+    ],
+    "planned_load": 0.07180207967758179,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0002",
+    "home_region_id": "103",
+    "path": [
+      [
+        106.4804,
+        29.49241
+      ],
+      [
+        106.4804,
+        29.49241
+      ],
+      [
+        106.4804,
+        29.49241
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "103",
+        "longitude": 106.4804,
+        "latitude": 29.49241,
+        "planned_delivery": 0.06579257547855377
+      }
+    ],
+    "planned_load": 0.06579257547855377,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0003",
+    "home_region_id": "104",
+    "path": [
+      [
+        106.26059,
+        29.99827
+      ],
+      [
+        106.26059,
+        29.99827
+      ],
+      [
+        106.26059,
+        29.99827
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "104",
+        "longitude": 106.26059,
+        "latitude": 29.99827,
+        "planned_delivery": 0.18983852863311768
+      }
+    ],
+    "planned_load": 0.18983852863311768,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0004",
+    "home_region_id": "105",
+    "path": [
+      [
+        106.61226,
+        29.72199
+      ],
+      [
+        106.61226,
+        29.72199
+      ],
+      [
+        106.61226,
+        29.72199
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "105",
+        "longitude": 106.61226,
+        "latitude": 29.72199,
+        "planned_delivery": 0.12801186740398407
+      }
+    ],
+    "planned_load": 0.12801186740398407,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0005",
+    "home_region_id": "106",
+    "path": [
+      [
+        106.05908,
+        29.84232
+      ],
+      [
+        106.05908,
+        29.84232
+      ],
+      [
+        106.05908,
+        29.84232
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "106",
+        "longitude": 106.05908,
+        "latitude": 29.84232,
+        "planned_delivery": 0.06671734154224396
+      }
+    ],
+    "planned_load": 0.06671734154224396,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0006",
+    "home_region_id": "107",
+    "path": [
+      [
+        106.56544,
+        29.505634999999998
+      ],
+      [
+        106.53829,
+        29.45741
+      ],
+      [
+        106.56544,
+        29.505634999999998
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "132",
+        "longitude": 106.53829,
+        "latitude": 29.45741,
+        "planned_delivery": 0.1280462145805359
+      }
+    ],
+    "planned_load": 0.1280462145805359,
+    "vehicle_capacity": 20,
+    "distance_km": 11.943487550843374,
+    "estimated_travel_minutes": 35.83046265253012,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0007",
+    "home_region_id": "109",
+    "path": [
+      [
+        106.44848,
+        29.59521
+      ],
+      [
+        106.44848,
+        29.59521
+      ],
+      [
+        106.45263,
+        29.54619
+      ],
+      [
+        106.44848,
+        29.59521
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "109",
+        "longitude": 106.44848,
+        "latitude": 29.59521,
+        "planned_delivery": 0.0799599140882492
+      },
+      {
+        "region_id": "148",
+        "longitude": 106.45263,
+        "latitude": 29.54619,
+        "planned_delivery": 0.07458027452230453
+      }
+    ],
+    "planned_load": 0.15454018861055374,
+    "vehicle_capacity": 20,
+    "distance_km": 10.931078249873512,
+    "estimated_travel_minutes": 32.79323474962054,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0008",
+    "home_region_id": "11",
+    "path": [
+      [
+        106.64563,
+        29.62404
+      ],
+      [
+        106.64563,
+        29.62404
+      ],
+      [
+        106.64563,
+        29.62404
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "11",
+        "longitude": 106.64563,
+        "latitude": 29.62404,
+        "planned_delivery": 0.057080697268247604
+      }
+    ],
+    "planned_load": 0.057080697268247604,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0009",
+    "home_region_id": "110",
+    "path": [
+      [
+        106.48546,
+        29.58624
+      ],
+      [
+        106.48546,
+        29.58624
+      ],
+      [
+        106.48546,
+        29.58624
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "110",
+        "longitude": 106.48546,
+        "latitude": 29.58624,
+        "planned_delivery": 0.17363326251506805
+      }
+    ],
+    "planned_load": 0.17363326251506805,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0010",
+    "home_region_id": "112",
+    "path": [
+      [
+        105.931245,
+        29.35304
+      ],
+      [
+        105.931245,
+        29.35304
+      ],
+      [
+        105.931245,
+        29.35304
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "112",
+        "longitude": 105.931245,
+        "latitude": 29.35304,
+        "planned_delivery": 0.06137663498520851
+      }
+    ],
+    "planned_load": 0.06137663498520851,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0011",
+    "home_region_id": "116",
+    "path": [
+      [
+        106.30006,
+        29.59318
+      ],
+      [
+        106.30006,
+        29.59318
+      ],
+      [
+        106.30006,
+        29.59318
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "116",
+        "longitude": 106.30006,
+        "latitude": 29.59318,
+        "planned_delivery": 0.056854065507650375
+      }
+    ],
+    "planned_load": 0.056854065507650375,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0012",
+    "home_region_id": "123",
+    "path": [
+      [
+        106.32663,
+        29.61269
+      ],
+      [
+        106.32663,
+        29.61269
+      ],
+      [
+        106.32663,
+        29.61269
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "123",
+        "longitude": 106.32663,
+        "latitude": 29.61269,
+        "planned_delivery": 0.2660728693008423
+      }
+    ],
+    "planned_load": 0.2660728693008423,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0013",
+    "home_region_id": "125",
+    "path": [
+      [
+        105.59748,
+        29.41163
+      ],
+      [
+        105.59748,
+        29.41163
+      ],
+      [
+        105.59748,
+        29.41163
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "125",
+        "longitude": 105.59748,
+        "latitude": 29.41163,
+        "planned_delivery": 0.07203466445207596
+      }
+    ],
+    "planned_load": 0.07203466445207596,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0014",
+    "home_region_id": "127",
+    "path": [
+      [
+        106.56672,
+        29.55701
+      ],
+      [
+        106.56672,
+        29.55701
+      ],
+      [
+        106.56672,
+        29.55701
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "127",
+        "longitude": 106.56672,
+        "latitude": 29.55701,
+        "planned_delivery": 0.08533883094787598
+      }
+    ],
+    "planned_load": 0.08533883094787598,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0015",
+    "home_region_id": "130",
+    "path": [
+      [
+        106.545515,
+        29.586965
+      ],
+      [
+        106.545515,
+        29.586965
+      ],
+      [
+        106.545515,
+        29.586965
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "130",
+        "longitude": 106.545515,
+        "latitude": 29.586965,
+        "planned_delivery": 0.16420337557792664
+      }
+    ],
+    "planned_load": 0.16420337557792664,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0016",
+    "home_region_id": "131",
+    "path": [
+      [
+        106.226135,
+        29.57573
+      ],
+      [
+        106.226135,
+        29.57573
+      ],
+      [
+        106.226135,
+        29.57573
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "131",
+        "longitude": 106.226135,
+        "latitude": 29.57573,
+        "planned_delivery": 0.07139965146780014
+      }
+    ],
+    "planned_load": 0.07139965146780014,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0017",
+    "home_region_id": "132",
+    "path": [
+      [
+        106.53829,
+        29.45741
+      ],
+      [
+        106.53453,
+        29.38285
+      ],
+      [
+        106.53829,
+        29.45741
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "70",
+        "longitude": 106.53453,
+        "latitude": 29.38285,
+        "planned_delivery": 0.1282813996076584
+      }
+    ],
+    "planned_load": 0.1282813996076584,
+    "vehicle_capacity": 20,
+    "distance_km": 16.597399441060915,
+    "estimated_travel_minutes": 49.792198323182745,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0018",
+    "home_region_id": "133",
+    "path": [
+      [
+        106.52709,
+        29.56908
+      ],
+      [
+        106.52709,
+        29.56908
+      ],
+      [
+        106.52709,
+        29.56908
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "133",
+        "longitude": 106.52709,
+        "latitude": 29.56908,
+        "planned_delivery": 0.054859548807144165
+      }
+    ],
+    "planned_load": 0.054859548807144165,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0019",
+    "home_region_id": "134",
+    "path": [
+      [
+        106.60432,
+        29.53288
+      ],
+      [
+        106.60432,
+        29.53288
+      ],
+      [
+        106.60432,
+        29.53288
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "134",
+        "longitude": 106.60432,
+        "latitude": 29.53288,
+        "planned_delivery": 0.057315897196531296
+      }
+    ],
+    "planned_load": 0.057315897196531296,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0020",
+    "home_region_id": "135",
+    "path": [
+      [
+        107.788055,
+        30.665125000000003
+      ],
+      [
+        107.788055,
+        30.665125000000003
+      ],
+      [
+        107.788055,
+        30.665125000000003
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "135",
+        "longitude": 107.788055,
+        "latitude": 30.665125000000003,
+        "planned_delivery": 0.05460258945822716
+      }
+    ],
+    "planned_load": 0.05460258945822716,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0021",
+    "home_region_id": "136",
+    "path": [
+      [
+        106.36686,
+        29.516354999999997
+      ],
+      [
+        106.36686,
+        29.516354999999997
+      ],
+      [
+        106.36686,
+        29.516354999999997
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "136",
+        "longitude": 106.36686,
+        "latitude": 29.516354999999997,
+        "planned_delivery": 0.06489922851324081
+      }
+    ],
+    "planned_load": 0.06489922851324081,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0022",
+    "home_region_id": "138",
+    "path": [
+      [
+        108.37504,
+        30.822025
+      ],
+      [
+        108.37504,
+        30.822025
+      ],
+      [
+        108.422585,
+        30.762525
+      ],
+      [
+        108.37504,
+        30.822025
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "138",
+        "longitude": 108.37504,
+        "latitude": 30.822025,
+        "planned_delivery": 0.07203466445207596
+      },
+      {
+        "region_id": "163",
+        "longitude": 108.422585,
+        "latitude": 30.762525,
+        "planned_delivery": 0.07414758950471878
+      }
+    ],
+    "planned_load": 0.14618225395679474,
+    "vehicle_capacity": 20,
+    "distance_km": 16.049671461885083,
+    "estimated_travel_minutes": 48.14901438565525,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0023",
+    "home_region_id": "139",
+    "path": [
+      [
+        106.65411,
+        29.50852
+      ],
+      [
+        106.65411,
+        29.50852
+      ],
+      [
+        106.65411,
+        29.50852
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "139",
+        "longitude": 106.65411,
+        "latitude": 29.50852,
+        "planned_delivery": 0.18867413699626923
+      }
+    ],
+    "planned_load": 0.18867413699626923,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0024",
+    "home_region_id": "141",
+    "path": [
+      [
+        106.59966,
+        29.66895
+      ],
+      [
+        106.59966,
+        29.66895
+      ],
+      [
+        106.60809,
+        29.64794
+      ],
+      [
+        106.59966,
+        29.66895
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "141",
+        "longitude": 106.59966,
+        "latitude": 29.66895,
+        "planned_delivery": 0.19693626463413239
+      },
+      {
+        "region_id": "67",
+        "longitude": 106.60809,
+        "latitude": 29.64794,
+        "planned_delivery": 0.056854065507650375
+      }
+    ],
+    "planned_load": 0.25379033014178276,
+    "vehicle_capacity": 20,
+    "distance_km": 4.948290426204302,
+    "estimated_travel_minutes": 14.844871278612906,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0025",
+    "home_region_id": "142",
+    "path": [
+      [
+        106.49095,
+        29.73588
+      ],
+      [
+        106.49095,
+        29.73588
+      ],
+      [
+        106.49095,
+        29.73588
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "142",
+        "longitude": 106.49095,
+        "latitude": 29.73588,
+        "planned_delivery": 0.20486722886562347
+      }
+    ],
+    "planned_load": 0.20486722886562347,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0026",
+    "home_region_id": "144",
+    "path": [
+      [
+        106.676435,
+        29.02724
+      ],
+      [
+        106.676435,
+        29.02724
+      ],
+      [
+        106.676435,
+        29.02724
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "144",
+        "longitude": 106.676435,
+        "latitude": 29.02724,
+        "planned_delivery": 0.0718066617846489
+      }
+    ],
+    "planned_load": 0.0718066617846489,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0027",
+    "home_region_id": "145",
+    "path": [
+      [
+        105.719385,
+        29.697735
+      ],
+      [
+        105.719385,
+        29.697735
+      ],
+      [
+        105.719385,
+        29.697735
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "145",
+        "longitude": 105.719385,
+        "latitude": 29.697735,
+        "planned_delivery": 0.07271898537874222
+      }
+    ],
+    "planned_load": 0.07271898537874222,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0028",
+    "home_region_id": "147",
+    "path": [
+      [
+        106.59648,
+        29.58086
+      ],
+      [
+        106.59648,
+        29.58086
+      ],
+      [
+        106.59648,
+        29.58086
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "147",
+        "longitude": 106.59648,
+        "latitude": 29.58086,
+        "planned_delivery": 0.19497913122177124
+      }
+    ],
+    "planned_load": 0.19497913122177124,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0029",
+    "home_region_id": "148",
+    "path": [
+      [
+        106.45263,
+        29.54619
+      ],
+      [
+        106.47741,
+        29.52492
+      ],
+      [
+        106.51134,
+        29.53901
+      ],
+      [
+        106.51878,
+        29.51223
+      ],
+      [
+        106.45263,
+        29.54619
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "74",
+        "longitude": 106.47741,
+        "latitude": 29.52492,
+        "planned_delivery": 0.3520295321941376
+      },
+      {
+        "region_id": "40",
+        "longitude": 106.51134,
+        "latitude": 29.53901,
+        "planned_delivery": 0.08498726040124893
+      },
+      {
+        "region_id": "166",
+        "longitude": 106.51878,
+        "latitude": 29.51223,
+        "planned_delivery": 0.1991237998008728
+      }
+    ],
+    "planned_load": 0.6361405923962593,
+    "vehicle_capacity": 20,
+    "distance_km": 17.49970287024179,
+    "estimated_travel_minutes": 52.49910861072537,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0030",
+    "home_region_id": "149",
+    "path": [
+      [
+        106.56483,
+        29.53129
+      ],
+      [
+        106.56483,
+        29.53129
+      ],
+      [
+        106.56544,
+        29.505634999999998
+      ],
+      [
+        106.56483,
+        29.53129
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "149",
+        "longitude": 106.56483,
+        "latitude": 29.53129,
+        "planned_delivery": 0.14240366220474243
+      },
+      {
+        "region_id": "107",
+        "longitude": 106.56544,
+        "latitude": 29.505634999999998,
+        "planned_delivery": 0.046936821192502975
+      }
+    ],
+    "planned_load": 0.1893404833972454,
+    "vehicle_capacity": 20,
+    "distance_km": 5.706640696711836,
+    "estimated_travel_minutes": 17.119922090135507,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0031",
+    "home_region_id": "15",
+    "path": [
+      [
+        106.41132,
+        29.81508
+      ],
+      [
+        106.41132,
+        29.81508
+      ],
+      [
+        106.41132,
+        29.81508
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "15",
+        "longitude": 106.41132,
+        "latitude": 29.81508,
+        "planned_delivery": 0.08522246032953262
+      }
+    ],
+    "planned_load": 0.08522246032953262,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0032",
+    "home_region_id": "150",
+    "path": [
+      [
+        107.38469,
+        29.706485
+      ],
+      [
+        107.38469,
+        29.706485
+      ],
+      [
+        107.06886,
+        29.85563
+      ],
+      [
+        107.38469,
+        29.706485
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "150",
+        "longitude": 107.38469,
+        "latitude": 29.706485,
+        "planned_delivery": 0.06375760585069656
+      },
+      {
+        "region_id": "48",
+        "longitude": 107.06886,
+        "latitude": 29.85563,
+        "planned_delivery": 0.0669376403093338
+      }
+    ],
+    "planned_load": 0.13069524616003036,
+    "vehicle_capacity": 20,
+    "distance_km": 69.40030850548172,
+    "estimated_travel_minutes": 208.20092551644515,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0033",
+    "home_region_id": "152",
+    "path": [
+      [
+        108.40406,
+        31.1719
+      ],
+      [
+        108.40406,
+        31.1719
+      ],
+      [
+        108.40406,
+        31.1719
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "152",
+        "longitude": 108.40406,
+        "latitude": 31.1719,
+        "planned_delivery": 0.06240522861480713
+      }
+    ],
+    "planned_load": 0.06240522861480713,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0034",
+    "home_region_id": "153",
+    "path": [
+      [
+        106.56001,
+        29.65166
+      ],
+      [
+        106.56001,
+        29.65166
+      ],
+      [
+        106.56001,
+        29.65166
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "153",
+        "longitude": 106.56001,
+        "latitude": 29.65166,
+        "planned_delivery": 0.09192178398370743
+      }
+    ],
+    "planned_load": 0.09192178398370743,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0035",
+    "home_region_id": "154",
+    "path": [
+      [
+        106.263615,
+        29.28041
+      ],
+      [
+        106.263615,
+        29.28041
+      ],
+      [
+        106.263615,
+        29.28041
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "154",
+        "longitude": 106.263615,
+        "latitude": 29.28041,
+        "planned_delivery": 0.07655806839466095
+      }
+    ],
+    "planned_load": 0.07655806839466095,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0036",
+    "home_region_id": "155",
+    "path": [
+      [
+        106.56345,
+        29.58838
+      ],
+      [
+        106.56345,
+        29.58838
+      ],
+      [
+        106.56345,
+        29.58838
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "155",
+        "longitude": 106.56345,
+        "latitude": 29.58838,
+        "planned_delivery": 0.3312080502510071
+      }
+    ],
+    "planned_load": 0.3312080502510071,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0037",
+    "home_region_id": "157",
+    "path": [
+      [
+        106.30250000000001,
+        29.584654999999998
+      ],
+      [
+        106.30250000000001,
+        29.584654999999998
+      ],
+      [
+        106.30250000000001,
+        29.584654999999998
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "157",
+        "longitude": 106.30250000000001,
+        "latitude": 29.584654999999998,
+        "planned_delivery": 0.08028854429721832
+      }
+    ],
+    "planned_load": 0.08028854429721832,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0038",
+    "home_region_id": "158",
+    "path": [
+      [
+        106.52787,
+        29.63831
+      ],
+      [
+        106.52787,
+        29.63831
+      ],
+      [
+        106.48931,
+        29.636785000000003
+      ],
+      [
+        106.52787,
+        29.63831
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "158",
+        "longitude": 106.52787,
+        "latitude": 29.63831,
+        "planned_delivery": 0.1924184113740921
+      },
+      {
+        "region_id": "24",
+        "longitude": 106.48931,
+        "latitude": 29.636785000000003,
+        "planned_delivery": 0.0591575913131237
+      }
+    ],
+    "planned_load": 0.2515760026872158,
+    "vehicle_capacity": 20,
+    "distance_km": 7.461170446835458,
+    "estimated_travel_minutes": 22.383511340506374,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0039",
+    "home_region_id": "159",
+    "path": [
+      [
+        106.44636,
+        29.44194
+      ],
+      [
+        106.44636,
+        29.44194
+      ],
+      [
+        106.44636,
+        29.44194
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "159",
+        "longitude": 106.44636,
+        "latitude": 29.44194,
+        "planned_delivery": 0.062398023903369904
+      }
+    ],
+    "planned_load": 0.062398023903369904,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  },
+  {
+    "city": "Chongqing",
+    "route_id": "Chongqing-0040",
+    "home_region_id": "160",
+    "path": [
+      [
+        106.52328,
+        29.59443
+      ],
+      [
+        106.52328,
+        29.59443
+      ],
+      [
+        106.52328,
+        29.59443
+      ]
+    ],
+    "stops": [
+      {
+        "region_id": "160",
+        "longitude": 106.52328,
+        "latitude": 29.59443,
+        "planned_delivery": 0.48345455527305603
+      }
+    ],
+    "planned_load": 0.48345455527305603,
+    "vehicle_capacity": 20,
+    "distance_km": 0.0,
+    "estimated_travel_minutes": 0.0,
+    "distance_method": "Haversine straight-line simulation"
+  }
+]

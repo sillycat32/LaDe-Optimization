@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+
+# Raw datasets
+*.parquet
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Model artifacts (optional: keep selected models in Git)
+# models/

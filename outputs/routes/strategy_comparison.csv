@@ -1,0 +1,4 @@
+Strategy,Routes,Total route distance (km),Average route distance (km),Average estimated travel time (min),Demand coverage (%),Unserved demand,Distance basis
+Static,40,160.537749649138,4.01344374122845,12.04033122368535,25.215188044218532,17.16324372496456,Haversine straight-line simulation
+Reactive,0,0.0,0.0,0.0,0.0,22.95017300453037,Haversine straight-line simulation
+Proactive,40,2136.465690295653,53.41164225739133,160.234926772174,95.90520432743423,0.9397626910358667,Haversine straight-line simulation

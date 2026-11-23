@@ -1,0 +1,13 @@
+Model,Threshold,Observations,MAE,Period
+Naive lag_1,48.0,4697,78.71641473280818,September
+Seasonal naive lag_24,48.0,4697,34.97189695550351,September
+Original XGBoost,48.0,4697,30.015882481107667,September
+Weighted XGBoost,48.0,4697,24.81761643307334,September
+Two-stage unconstrained,48.0,4697,20.583399824945626,September
+Two-stage constrained,48.0,4697,20.583399824945626,September
+Naive lag_1,48.0,6767,82.82990985665731,October
+Seasonal naive lag_24,48.0,6767,37.66558297620807,October
+Original XGBoost,48.0,6767,35.6100062218862,October
+Weighted XGBoost,48.0,6767,29.946209185859274,October
+Two-stage unconstrained,48.0,6767,25.182025829733334,October
+Two-stage constrained,48.0,6767,25.182025829733334,October

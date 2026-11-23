@@ -1,0 +1,2 @@
+threshold,actual_extreme_events,predicted_extreme_events,true_positive,false_positive,false_negative,precision,recall,f1,extreme_mae
+53.0,4053,3090,2419,671,1634,0.7828478964401294,0.5968418455465088,0.6773064538709225,31.67626953125

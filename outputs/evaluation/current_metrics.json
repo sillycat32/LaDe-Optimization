@@ -1,0 +1,44 @@
+{
+  "forecast": {
+    "observations": 0,
+    "MAE": NaN,
+    "RMSE": NaN,
+    "WAPE (%)": NaN
+  },
+  "hotspots": {
+    "observations": 0,
+    "precision": NaN,
+    "recall": NaN,
+    "F1": NaN,
+    "label_note": "Historical actual demand is unavailable."
+  },
+  "spatial_graph": {
+    "node_count": 168,
+    "edge_count": 575,
+    "isolated_node_count": 0,
+    "component_count": 4,
+    "components": [
+      {
+        "city": "Chongqing",
+        "component_count": 1,
+        "region_count": 48
+      },
+      {
+        "city": "Hangzhou",
+        "component_count": 1,
+        "region_count": 51
+      },
+      {
+        "city": "Shanghai",
+        "component_count": 1,
+        "region_count": 52
+      },
+      {
+        "city": "Yantai",
+        "component_count": 1,
+        "region_count": 17
+      }
+    ]
+  },
+  "note": "This is a historical-data demonstration and simulated allocation/route evaluation, not a live delivery-system result."
+}
