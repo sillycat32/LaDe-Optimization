@@ -14,13 +14,13 @@
   },
   "spatial_graph": {
     "node_count": 168,
-    "edge_count": 575,
+    "edge_count": 452,
     "isolated_node_count": 0,
-    "component_count": 4,
+    "component_count": 5,
     "components": [
       {
         "city": "Chongqing",
-        "component_count": 1,
+        "component_count": 2,
         "region_count": 48
       },
       {

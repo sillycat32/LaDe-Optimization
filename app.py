@@ -309,12 +309,16 @@ def main():
                 "multi-hour model."
             ),
         )
-        planning_hour = st.slider(
-            "Allocate fleet for forecast hour",
-            min_value=1,
-            max_value=horizon,
-            value=1,
-        )
+        if horizon == 1:
+            planning_hour = 1
+            st.caption("Fleet allocation uses the only forecast hour available.")
+        else:
+            planning_hour = st.slider(
+                "Allocate fleet for forecast hour",
+                min_value=1,
+                max_value=horizon,
+                value=1,
+            )
         probability_threshold = st.slider(
             "High-demand probability threshold",
             min_value=0.05,
